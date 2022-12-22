@@ -1,0 +1,16 @@
+name: simple_dart_multilang_tabs_panel
+description: Multilang Tabs Panel Component
+version: 0.0.1
+repository: https://github.com/simple-dart/multilang_tabs_panel
+platforms:
+  web:
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+
+dependencies:
+  simple_dart_multilang_controller: ^0.0.1
+  simple_dart_multilang_label: ^0.0.1
+  simple_dart_tabs_panel: ^0.0.1
+  simple_dart_ui_core: ^0.0.2
